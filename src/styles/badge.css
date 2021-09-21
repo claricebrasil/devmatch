@@ -1,0 +1,19 @@
+.badge {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding: 0px 10px;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.blue {
+    color: #fff;
+    background-color: #505DD1;
+}
+
+.blue-outline {
+    color: #505DD1;
+    background-color: #fff;
+    border: solid 1px #505DD1;
+}
